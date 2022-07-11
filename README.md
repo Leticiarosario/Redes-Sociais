@@ -1,6 +1,6 @@
 # Redes-Sociais
 
-<img src="image/screen.png" alt="imagem do meu perfil e redes sociais">
+<img src="screen.png" alt="imagem do meu perfil e redes sociais">
 
 > Este projeto foi construido com o intuito de apresentar as redes sociais que mais utilizo 
 ##
@@ -12,5 +12,7 @@
 
 
 ### Linguagens utilizados
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+</div>
