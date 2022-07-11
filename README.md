@@ -1,6 +1,6 @@
 # Redes-Sociais
 
-<img src="screen.png" alt="imagem do meu perfil e redes sociais">
+<img src="/image/sreen.png" alt="imagem do meu perfil e redes sociais">
 
 > Este projeto foi construido com o intuito de apresentar as redes sociais que mais utilizo 
 ##
