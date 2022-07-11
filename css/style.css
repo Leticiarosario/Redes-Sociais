@@ -39,7 +39,7 @@ body{
     background-color: var(--roxoMaisEscuro);
     color: white;
     height: 100vh;
-    background-image: url('/image/Snow.svg');
+    background-image: url('image/Snow.svg');
 }
 
 main{
@@ -108,7 +108,7 @@ footer{
 display: flex;
 align-items: center;
 justify-content: center;
-margin: 2rem 0;
+margin: 1rem 0;
 }
 
 
