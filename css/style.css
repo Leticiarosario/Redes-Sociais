@@ -39,7 +39,7 @@ body{
     background-color: var(--roxoMaisEscuro);
     color: white;
     height: 100vh;
-    background-image: url("../image/fundo.png") no-repeat;
+    background-image: url("../image/fundo.png") ;
 }
 
 main{
