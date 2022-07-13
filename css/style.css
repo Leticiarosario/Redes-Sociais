@@ -40,6 +40,7 @@ body{
     color: white;
     height: 100vh;
     background-image: url("../image/fundo.png") ;
+    background-size: cover;
 }
 
 main{
