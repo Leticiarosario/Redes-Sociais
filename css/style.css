@@ -39,7 +39,7 @@ body{
     background-color: var(--roxoMaisEscuro);
     color: white;
     height: 100vh;
-    background-image: url('../image/Snow.svg');
+    background-image: url('../image/fundo.png');
 }
 
 main{
