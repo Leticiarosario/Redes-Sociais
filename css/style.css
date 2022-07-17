@@ -78,11 +78,11 @@ h6{
     font-size: 14px;
     margin: 1.2rem 0;
 }
-ul li{
-    list-style: none;
+.rede-social a{
     margin: 1rem 2rem;
     border: 2px solid var(--roxoclaro);
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     width: 326px;
@@ -90,7 +90,7 @@ ul li{
     background-color: var(--roxoclaro);
 }
 
-ul li:hover{
+.rede-social a:hover{
     background-color: var(--roxoEscuro);
     cursor: pointer;
     transition: .3s;
